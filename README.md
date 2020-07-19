@@ -1,1 +1,2 @@
-# DataMining_HW1
+## DataMining_HW1
+### concept: decision tree
